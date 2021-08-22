@@ -1,108 +1,117 @@
 ### What is it?
 
-* This course focuses on object-oriented programming (OOP).
+* This course is an introduction to programming fundamentals, and also lets SE 
+  freshmen get their feet wet early with object-oriented programming (OOP),
+  which is the most popular paradigm.
 
 ![comic](images/dilbert-full.gif)
 
 
 
-### What is it?
+### What's programming?
 
-* Solve a problem by modelling real-world objects in your code.
-* Mainstream programming style (formally called a **paradigm**)
-* 8 of the 10 programming languages in the TIOBE Index Top 10 are primarily OOP
-  - as of July 2020
-  - TIOBE rankings change from time to time
+![dumb](images/dumb.png)
 
+- Instructions written in a language dumb computers can easily
+  decipher: a **_programming language_**
 
 
-### What language?
 
-* Java is used in most traditional OOP courses
-* CPU SE is **not** traditional, so let's use a hipster language from Google
+### Too many programming langauges
 
-![dart](images/dart-logo.png)
+* try going to https://www.tiobe.com/tiobe-index/
+* some are not beginner-friendly
 
----
+![js](images/us-schools.webp) <!-- .element: style="width: 600px; height: 400px" -->
+
+
+
+### CPU SE chooses...
+
+* a langauge from TIOBE's top 10
+* used by [Stanford](https://www.stanforddaily.com/2017/02/28/cs-department-updates-introductory-courses/)
+  in its [CS101](https://web.stanford.edu/class/cs101/syllabus.html)
+* let's you do almost anything 😉
+
+![anything](images/anything.png)
+
+
 
 ### What we'll learn? (1/7)
 
-![single-class](images/single-class.png)
+![html](images/lumpia.jpg)
 
-Represent/mimic/**model** a single, real-world object inside our code.
+Javasript can run on your browser, so let's learn how to make simple, ugly web
+pages first
 
 
 
-### What you'll learn? (2/7)
+### What we'll learn? (2/7)
 
-![never-again](images/again.jpeg)
+![vars](images/vars.png)
 
-OOP is easy-to-learn, but difficult-to-master. It's easy to go astray.  We'll learn _principles_ and 
-_best practices_ along the way
+Excited? We won't write programs yet, but learn some of their building blocks:
+variables and data types
 
 
 
 ### What you'll learn? (3/7)
 
-![inheritance](images/inheritance.png)
+![if](images/ai.png)
 
-Some of these objects are similar (all these animals breathe), but they do have slight differences.
-We can model them in our OOP code too.
+Conditionals: Teach computers how to do things only under certain conditions.
 
 
 
 ### What you'll learn? (4/7)
 
-![composition](images/petshop.png)
+![loop](images/loop.webp)
 
-Build big objects that are **compose**d of smaller objects.  A
-petshop is made up of pets, the veterinarian, shelves, customers, pet food, etc.
+Loops: Teach computers how to do things again and again and again.
 
 
 
 ### What you'll learn? (5/7)
 
-![exceptions](images/stopped.jpg)
+![oop](images/petshop.png)
 
-Things that can go wrong in our apps are also objects 😮, they're heavy, they get **throw**n around, 
-and will crash our apps if we don't **catch** 'em.
+Organize your program into objects:  Fancy a petshop game?  A petshop's objects
+would be:  pets, veterinarians, shelves, customers, pet food, etc.
 
 
 
 ### What you'll learn? (6/7)
 
-![docs](images/docs.png)
+![docs](images/canvas.png)
 
-When our app has now 1337 different kinds of objects, our brains will melt.  We'll learn some
-notations to give us bird's eye views of how these objects interact.
+Learn how to draw 2D graphics on an HTML Canvas.
 
 
 
 ### What you'll learn? (7/7)
 
-![gui](images/gui.jpg)
+<img src="images/mario.png" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)" />
 
-CLI apps get boring after a while, but your next Uber for Sardines startup idea
-needs a GUI right?  You'll build a mobile app or game for your final project.
+Build a game from scratch using everything you learned above.
 
 
 
 ### Pre-requisites
 
-* SE 1121 - Software Development I
+![algebra](images/algebra.png)
 
-* Pre-requisite knowledge:
-  - variables
-  - conditionals
-  - loops
-  - ~~arrays / lists~~ (not covered last sem)
-  - ~~functions~~ (not covered last sem)
+Officially, it says **none** on your prospectus, but many coding tasks require
+some _algebra on steroids_
 
 
 
+### Which courses need SE 1121 as a prereq?
 
-### Which courses need SE 1223 as a prereq?
+* all of your first year second sem courses
+  - SE 1222 co-requires SE 1223, which pre-requires SE 1121
+* Failing this course would mean a 1 year delay
+  - CPU policy:  can't take multiple lab subjects in _"summer"_
+    + while you can take SE 1121 in second term if you **request** it
+    + you **can't** take both SE 1222 and SE 1223 in one summer
 
-* SE 1222 - Data Structures (co-requisite)
-* passers of this course can take SE 2224 (Software Engieering Tools and Practices)
-* other sophomore courses require SE 1222 (Data Structures) as well
+![prereq](images/prereq.png)

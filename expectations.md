@@ -1,14 +1,14 @@
-# House Rules
+# Do's and Don'ts
 
 
 
-### Prayer
+### <span style="color: #34A56F">Do:</span> Pray before our live classes
 
 ![fides](images/fides.jpg)
 
 
 
-##### Let's start our live classes with a prayer
+### <span style="color: #34A56F">Do:</span> Pray before our live classes
 
 ![prayer](images/prayer.png) <!-- .element style="width: 800px; height: 500px" -->
 
@@ -16,8 +16,9 @@
 
 #### I won't pinpoint a student to lead the prayer
 
-* Student don't refuse, but may not have the 💖
-* When I enter the live class session, if the Holy Spirit moves you to pray, go ahead
+* When I enter the live class session and request someone to pray, just volunteer
+  through the leading of the Holy Spirit
+  - volunteering usually leads to prayers that are **sincere**
 
 > As she kept on praying to the Lord, Eli observed her mouth.
 > Hannah was **praying in her heart**, and her lips were moving but her voice was not heard.  
@@ -25,7 +26,7 @@
 
 
 
-### Pray from the heart, doesn't have to be English
+### ### <span style="color: #34A56F">Do:</span>Pray from the heart, doesn't have to be English
 
 > <sup>7</sup> When you pray, don’t babble on and on as the Gentiles do. 
 > They think their prayers are answered merely by repeating their words again and again.
@@ -38,7 +39,7 @@
 
 ##### Live Class House Rules (1/2)
 
-+ 🔇 Mute your mic when not speaking
++ 🔇 <span style="color: #34A56F">Do:</span> Mute your mic when not speaking
 
 ![tahol](images/record.jpg) <!-- .element style="width: 650px; height: 450px" -->
 
@@ -46,17 +47,30 @@
 
 ##### Live Class House Rules (2/2)
 
-+ call my attention if lecture is not recorded
-  - recording  
-    ![record](images/rec.png)\
-  - not recording  
-    ![no record](images/not-rec.png)
++ <span style="color: #34A56F">Do:</span> remind me to record our live classes
+  - for the sake of those with Internet or brownout problems
+  - absent: (e.g. sick, quarantined in facility, emergency, etc.)
++ <span style="color: #34A56F">Do:</span> remind me to resume recording if ever I pause (e.g. seatwork, CR break)
+
+![record](images/rec.png)  
+![norecord](images/not-rec.png)
+
+
+
+### <span style="color: #34A56F">Do:</span> communicate in English
+
 + English is the medium of instruction
+  - Some of your classmates are foreign students
   - **PRACTICE:** most software companies are multi-national  
     ![fang](images/fang.png) ![games](images/games.jpg)
+  - it doesn't had to be perfect grammer, other countries more progressive
+    but there English are not wery goot.
+  - always strive to recite, chat, ask questions, or help someone else in English 
+    (live class, Discord)
 
 
-### LEARN THE HARD WAY
+
+### <span style="color: #34A56F">Do:</span> LEARN THE HARD WAY
 
 ![hard](images/hard.png)
 
@@ -65,14 +79,14 @@
 
 
 
-### PRACTICE, PRACTICE, PRACTICE
+### <span style="color: #34A56F">Do:</span>  PRACTICE, PRACTICE, PRACTICE
 
 <div style="display: flex">
   <img src="images/kata.png" style="width: 50%">
   <ul>
     <li><b>Do</b> the problem sets</li>
     <li>Even if they are a <b>LOT</b></li>
-    <li>This sem we'll try
+    <li>Usual breakdown:
       <ul>
         <li>50% basics - solve these for a 3.0 equivalent</li>
         <li>25% average - solve 👆 and these for a 2.0 equivalent</li>
@@ -84,7 +98,7 @@
 
 
 
-### GO THE EXTRA MILE
+### <span style="color: #34A56F">Do:</span> GO THE EXTRA MILE
 
 + fast learners will have lots of extra time
   - don't be idle and waste time
@@ -101,7 +115,7 @@
 
 
 
-ASK QUESTIONS
+<span style="color: #34A56F">Do:</span>  ASK QUESTIONS
 =============
 
 ![questions](images/stupid.gif)
@@ -111,10 +125,20 @@ ASK QUESTIONS
 
 
 
+### <span style="color: red">Don't:</span>  Give Up
+
+![giveup](images/giveup.png)
+
+* Some of you are beginners <!-- .element style="font-size: 0.9em" -->
+  - or forgot your JHS coding lessons
+  - beginners struggling is super OK.
+
+
+
 ACADEMIC INTEGRITY
 ==================
 
-**Absolutely no to cheating in my classes**
+**<span style="color: red">Don't:</span> cheat**
 
 
 
@@ -137,7 +161,7 @@ ACADEMIC INTEGRITY
 #### If you don't get caught
 * it will still backfire, one day when working, you'll have no one to copy from
   - remember Prov 10:9, you **will** be found out
-* only ~8% of PH grads can pass Stacktrek's exam for applicants
+* only ~8% of PH grads can pass Stacktrek's exam
   - they graduated but can't pass a **basic** coding exam?
 * but there's Google!
   - a bank in our country got hacked, for copying, **without understanding** -- StackOverflow code
@@ -145,14 +169,27 @@ ACADEMIC INTEGRITY
 
 
 
-#### If you're stuck with a problem set for more than 45 minutes
+#### If you're stuck, show your code to get help
 
-![drake](images/drake.jpg)
+![drake](images/worky.jpg)
 
 
 
-#### If you're stuck with a quiz or exam for more than 45 minutes
+#### If you're stuck on a quiz or exam
 
 ![drake](images/dont-even-think-about-it-kid.jpeg)
 
 Treat *new normal* quizzes and exams as **proctored**
+
+
+
+### <span style="color: #34A56F">Do:</span> love your course
+
+One SE batch has a favorite quote:
+
+> For the love of SE! 💓💓💓
+
+- When there's love, there's pain 😉
+  - [Language reflects culture](https://medium.com/@lucas.po/our-peoples-tongue-the-history-and-future-of-the-hokkien-language-in-the-philippines-414e0628932f). 
+    In the Min Nan (a.k.a. Hokkien) dialect  spoken by most Chinoys, love and
+    pain are both the same words: 疼 (tia<sup>n</sup>)
