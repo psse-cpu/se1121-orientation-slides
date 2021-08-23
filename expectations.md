@@ -26,7 +26,7 @@
 
 
 
-### ### <span style="color: #34A56F">Do:</span>Pray from the heart, doesn't have to be English
+### <span style="color: #34A56F">Do:</span>Pray from the heart, doesn't have to be English
 
 > <sup>7</sup> When you pray, don’t babble on and on as the Gentiles do. 
 > They think their prayers are answered merely by repeating their words again and again.
